@@ -1,2 +1,0 @@
-# amazonapp
-shopping website development
